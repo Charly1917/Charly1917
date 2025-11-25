@@ -14,8 +14,8 @@ Actualmente estudio más tecnologías y desarrollo proyectos prácticos para seg
 
 ## 📂 Algunos proyectos  
 - [Quiosco Provider](https://github.com/Charly1917/nombre-del-repo-quiosco)  
-- [Portal de Empleos]([https://github.com/Charly1917/nombre-del-repo-empleos](https://github.com/Charly1917/DevJobs))  
-- [App tipo Instagram]([https://github.com/Charly1917/nombre-del-repo-instagram](https://github.com/Charly1917/devstagram))
+- [Portal de Empleos](https://github.com/Charly1917/DevJobs)  
+- [App tipo Instagram](https://github.com/Charly1917/devstagram)
 
 ## 📫 Contacto  
 - Email: carlosmarriv40@gmail.com
