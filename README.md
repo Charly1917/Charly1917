@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hola, soy Carlos Martínez 👋  
 
-<!--
-**Charly1917/Charly1917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador web en formación con conocimientos en Laravel, PHP, MySQL y Tailwind CSS.  
+Actualmente estudio más tecnologías y desarrollo proyectos prácticos para seguir creciendo.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologías  
+- Laravel / PHP  
+- MySQL  
+- Tailwind CSS  
+- Livewire  
+- Git / GitHub  
+- Python (básico)  
+- Vue 3 (básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Algunos proyectos  
+- [Quiosco Provider](https://github.com/Charly1917/nombre-del-repo-quiosco)  
+- [Portal de Empleos]([https://github.com/Charly1917/nombre-del-repo-empleos](https://github.com/Charly1917/DevJobs))  
+- [App tipo Instagram]([https://github.com/Charly1917/nombre-del-repo-instagram](https://github.com/Charly1917/devstagram))
+
+## 📫 Contacto  
+- Email: carlosmarriv40@gmail.com
