@@ -13,7 +13,7 @@ Actualmente estudio más tecnologías y desarrollo proyectos prácticos para seg
 - Vue 3 (básico)
 
 ## 📂 Algunos proyectos  
-- [Quiosco Provider](https://github.com/Charly1917/Quiosco-Comida)  
+- [Quiosco](https://github.com/Charly1917/Quiosco-Comida)  
 - [Portal de Empleos](https://github.com/Charly1917/DevJobs)  
 - [App tipo Instagram](https://github.com/Charly1917/devstagram)
 
